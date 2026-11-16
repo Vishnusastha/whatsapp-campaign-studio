@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WhatsApp Campaign Studio](public/logo.png)
+![WhatsApp Campaign Studio](logo.png)
 
 **Enterprise-Grade Multi-Account WhatsApp Marketing & Fleet Automation Dashboard**
 
