@@ -1,0 +1,58 @@
+SOURCE-AVAILABLE PORTFOLIO & EVALUATION LICENSE
+Version 1.0 (2026)
+
+Copyright (c) 2026 Austin (TRINOVA). All Rights Reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+   "Software" refers to the WhatsApp Campaign Studio codebase, including all scripts,
+   markup, styles, assets, and documentation provided within this repository.
+   "Licensor" refers to the copyright holder, Austin (TRINOVA).
+   "You" (or "Your") refers to an individual or legal entity evaluating this Software.
+
+2. GRANT OF EVALUATION LICENSE
+   Subject to the terms and conditions of this License, the Licensor hereby grants You a
+   limited, non-exclusive, non-transferable, royalty-free license to:
+   a. Clone, download, view, and inspect the source code for personal, academic, educational,
+      and portfolio assessment purposes.
+   b. Compile and execute the Software locally in a non-production, showcase, or demonstration
+      environment to evaluate its architecture, features, and capabilities.
+
+3. STRICT PROHIBITIONS & COMMERCIAL RESTRICTIONS
+   Without explicit, prior written authorization and commercial licensing from the Licensor,
+   You MUST NOT:
+   a. Sell, rent, lease, sublicense, distribute, or transfer the Software or any derivative work.
+   b. Deploy, host, or execute the Software in any commercial, enterprise, or profit-generating
+      operation (including but not limited to Software-as-a-Service, hosted marketing platforms,
+      or automated outreach agency services).
+   c. Remove, alter, obscure, or modify any copyright notices, trademark notices, watermarks,
+      or author attribution headers embedded within the source files or user interface.
+   d. Claim authorship, ownership, or exclusive rights over the architecture, user interface
+      design, or core codebases of this Software.
+
+4. INTELLECTUAL PROPERTY
+   All title, ownership rights, and intellectual property rights in and to the Software
+   remain exclusively with the Licensor.
+
+5. OPEN SOURCE ACKNOWLEDGEMENTS & CREDITS
+   This Software interacts with and incorporates third-party open-source components, notably:
+   - whatsapp-web.js (Apache-2.0 License, Copyright (c) Pedro Lopez & wwebjs contributors)
+   - Puppeteer (Apache-2.0 License, Copyright (c) Google LLC)
+   - Express.js (MIT License, Copyright (c) StrongLoop, Inc., OpenJS Foundation)
+   - PDF.js (Apache-2.0 License, Copyright (c) Mozilla Foundation)
+   - SheetJS / xlsx (Apache-2.0 License, Copyright (c) SheetJS LLC)
+   - node-qrcode (MIT License, Copyright (c) Ryan Day)
+   Third-party components remain subject to their respective open-source licenses. Nothing in
+   this License restricts or overrides the terms of those underlying open-source components.
+
+6. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM,
+   DAMAGES, ACCOUNT BANS, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE USE
+   OR PERFORMANCE OF THIS SOFTWARE.
+
+7. COMMERCIAL INQUIRIES & LICENSING
+   For commercial usage, custom enterprise deployments, feature licensing, or inquiries:
+   Contact Austin / TRINOVA.

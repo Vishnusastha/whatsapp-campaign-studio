@@ -1,0 +1,36 @@
+{
+  "name": "whatsapp-campaign-studio",
+  "version": "1.0.0",
+  "description": "Multi-Account WhatsApp Marketing & Automated Campaign Studio with Parallel Dispatch, Dynamic Spintax, Rolling Quota Guard, and Authentic UI.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node server.js --demo",
+    "dashboard": "node server.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-marketing",
+    "whatsapp-automation",
+    "campaign-studio",
+    "bulk-messaging",
+    "multi-account",
+    "spintax",
+    "puppeteer",
+    "sse"
+  ],
+  "author": "Austin (TRINOVA)",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fluent-ffmpeg": "^2.1.3",
+    "mime": "^3.0.0",
+    "pdf-parse": "^2.4.5",
+    "puppeteer": "^24.3.0",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#v1.34.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
