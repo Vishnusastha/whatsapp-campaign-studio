@@ -225,10 +225,10 @@ This project is released under the **Source-Available Portfolio & Evaluation Lic
 - **Permitted:** You may view, clone, and run this code locally for personal evaluation, technical review, educational study, and portfolio assessment.
 - **Restricted:** Commercial deployment, SaaS hosting, unauthorized redistribution, resale, or sublicensing without explicit written authorization from the author is strictly prohibited.
 
-For commercial inquiries, licensing agreements, or custom enterprise solutions, please reach out to **Austin (TRINOVA)**.
+For commercial inquiries, licensing agreements, or custom enterprise solutions, please reach out to **K J Vishnu Sastha (TRINOVA)**.
 
 ---
 
 <div align="center">
-<sub>Crafted with precision by <b>Austin (TRINOVA)</b></sub>
+<sub>Crafted with precision by <b>K J Vishnu SasthaINOVA)</b></sub>
 </div>
