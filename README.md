@@ -230,5 +230,5 @@ For commercial inquiries, licensing agreements, or custom enterprise solutions, 
 ---
 
 <div align="center">
-<sub>Crafted with precision by <b>K J Vishnu SasthaINOVA)</b></sub>
+<sub>Crafted with precision by <b>K J Vishnu Sastha </b></sub>
 </div>
